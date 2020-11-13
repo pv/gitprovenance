@@ -10,7 +10,7 @@ import sys
 import subprocess
 import shutil
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 
 _STAMP_HDR = b"\0@@PROVENANCE-STAMP:"
