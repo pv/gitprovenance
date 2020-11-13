@@ -1,7 +1,7 @@
 """
 gitprovenance
 
-Track git version that generated figures.
+Track repository versions that generated figures via matplotlib.
 """
 from __future__ import print_function, absolute_import, division
 
